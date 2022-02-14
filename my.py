@@ -42,7 +42,7 @@ def retrry(message):
             bot.send_audio(message.chat.id, audio=open(f"mp3/{englist[ran]}.mp3", 'rb'),caption=f"معنى كلمه:  {englist[ran]} \n \n ", reply_markup=key)
         else:
             ch="https://www.youtube.com/watch?v=QUhUxLPbrDo&list=PL-1UAVDVI3ffP10PyEF12HFnLK-MmKBDE"
-            bot.send_message(message.chat.id, f"{status} تحتاج للاشتراك في القناة للاستمرار  \n  القناة  @bc1bc \n يوتيوب {ch}")
+            bot.send_message(message.chat.id, f"{status} تحتاج للاشتراك في القناة للاستمرار  \n  القناة  @adowat \n \n يوتيوب {ch}")
     except:
         bot.send_message(message.chat.id, f"/start ارسل مرة اخرى")
         
