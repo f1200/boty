@@ -1,0 +1,1098 @@
+Ability,قدرة
+Big,ضخم
+Little,صغير
+Cheap,رخيص
+Expinsive,غالي
+Hot,ساخن
+Cold,بارد
+Deep,عميق
+Shallow,سطحي
+Easy,سهل
+Difficult,صعب
+Heavy,ثقيل
+Light,خفيف
+Long,طويل
+Tall,طويل
+Short,قصير
+Many,العديد من
+A few,عدد قليل من
+Much,الكميه الكثيره من
+A little,الكميه الصغيره من
+Poor,فقير
+Rich,غني
+Single,اعزب
+Married,متزوج
+Divorced,مطلق
+Strong,قوي
+Weak,ضعيف
+Wide,واسع
+Narrow,ضيق
+Thick,سميك
+Fat,سمين
+Thin,رفيع
+Rides,يركب
+Elephant,الفيل
+Kids,اطفال
+Drinks,يشرب
+Water,ماء
+Phone,هاتف
+Book,كتاب
+Street,شارع
+Super,خارق
+Pool,مسبح
+Hardworking,بجديه ونشاط
+Animals,حيونات
+Bears,الدببه
+Owls,بومه
+Walk,يمشي
+Swim,السباحة
+Ouctopus,اخطبوط
+Kangeroos,حيونات الكنغر
+Fast,سريع
+Run,الجري
+Hippo,فرس النهر
+Underwater,تحت الماء
+Goat,المعزه
+Frog,ضغدع
+Eat,ياكل
+Sly,مكار
+Foxes,الثعالب
+Flies,الذباب
+Annoying,مزعج
+Ducks,البط
+Dolphins,الدلافين
+Friendly,صديقه
+Beautiful,جميل
+Deer,غزال
+Crocodiles,تماسيح
+Dangeorus,خطير
+Eggs,البيض
+Chicken,دجاجه
+Bees,النحل
+Honey,عسل
+Way,طريق
+Anywhare,في أى مكان
+Direct flight,رحله مباشره
+Direct,مباشر
+Traffic,زحام
+Shy,خجول
+Typhoon,اعصار
+Patient,صبور
+Peas,البازلاء
+Chop,يقطع
+Cucumber,خيار
+Pickled,مخلل
+Radish,الفجل
+Turnip,لفت
+Lettuce,خس
+Bucycling,ركوب الدراجات
+Spinach,السبانخ
+Eggplants,الباذنجان
+Rabbite,الارنب
+Carrot,جزره
+Hour,ساعه
+Minute,دقيقه
+Second,ثانيه
+Moment,لحضه
+Clock,ساعه
+Watch,ساعه
+Quarter,ربع
+Half,نصف
+Able,قادر
+About,حول
+Above,فوق
+Accept,قبول
+According,تبعا
+Account,الحساب
+Across,عير
+Act,يمثل
+Action,عمل
+Activity,نشاط
+Actually,في الواقع
+Add,يضيف
+Address,عنوان
+Administration,الادارة
+Admit,يعترف
+Adult,بالغ
+Affect,يؤثر
+After,بعد بعدما
+Again,تكرارا
+Against,ضد
+Age,سن
+Agency,وكالة
+Agent,وكيلات
+Ago,منذ
+Agree,يوافق على
+Agreement,اتفاق
+Ahead,امام
+Air,هواء
+All,الكل
+Allow,السماح
+Almost,تقريبيا
+Alone,وحده
+Along,على امتداد
+Already,بالفعل
+Also,أيضا
+Although,بالرغم ان
+Always,دائما
+American,أمريكي
+Among,من بين
+Amount,كمية
+Analysis,التحليلات
+And,و
+Animal,حيوان
+Another,اخر
+Answer,إجابه
+Any,أي
+Anyone,أي واحد
+Anything,اى شئ
+Appear,يظهر
+Apply,تطبيق
+Approach,مقاربة
+Area,منطقة
+Argue,تجادل
+Arm,ذراع
+Around,حول
+Arrive,يصل
+Art,فن
+Article,مقالة - سلعة
+Artist,فنان
+As,كما
+Ask,يطلب
+Assume,افترض
+At,في
+Attack,هجوم
+Attention,الانتباه
+Attorney,محامي
+Audience,جمهور
+Author,مؤلف
+Authority,السلطة
+Available,متوفرة
+Avoid,تجنب
+Away,بعيدا
+Baby,طفل
+Back,الى الخلف
+Bad,سيء
+Bag,حقيبة
+Ball,كرة
+Bank,مصرف
+Bar,شريط
+Base,يتمركز
+Be,يكون
+Beat,تغلب
+Beautiful,جميلة
+Because,لأن
+Become,أصبح
+Bed,سرير
+Before,قبل
+Begin,يبدأ
+Behavior,سلوك
+Behind,خلف
+Believe,يصدق
+Benefit,المنفعة
+Best,أفضل
+Better,أفضل
+Between,ما بين
+Beyond,وراء - فى الجانب الاخر
+Big,كبير
+Bill,مشروع قانون
+Billion,مليار 
+Bit,قليل
+Black,أسود
+Blood,دم
+Blue,أزرق
+Board,مجلس
+Body,هيئة
+Book,الكتاب
+Born,ولد
+Both,على حد سواء
+Box,علبة
+Boy,صبي
+Break,استراحة
+Bring,احضر
+Brother,شقيق
+Budget,تبرع
+Build,يبني
+Building,بناء
+Business,عمل
+But,لكن
+Buy,يشترى
+By,بواسطة
+Call,مكالمة
+Camera,الة تصوير
+Campaign,الحملة الانتخابية
+Can,علبة
+Cancer,سرطان
+Candidate,مرشح
+Capital,رأس المال
+Car,السيارات
+Card,بطاقة
+Care,رعاية
+Career,مسار مهني مسار وظيفي
+Carry,احمل
+Case,قضية
+Catch,يمسك
+Cause,لانى
+Cell,زنزانة
+Center,المركز
+Central,وسط
+Century,مئة عام
+Certain,المؤكد
+Certainly,من المؤكد
+Chair,كرسي
+Challenge,تحد
+Chance,صدفة
+Change,يتغيرون
+Character,اختلاف الشخصيات
+Charge,الشحنة
+Check,التحقق من
+Child,طفل
+Choice,خيار
+Choose,يختار
+Church,كنيسة
+Citizen,مواطن
+City,مدينة
+Civil,مدني
+Claim,مطالبة
+Class,صف دراسي
+Clear,صافي
+Clearly,بوضوح
+Close,أغلق
+Coach,مدرب رياضي
+Cold,البرد
+Collection,مجموعة
+College,كلية
+Color,اللون
+Come,يأتي
+Commercial,تجاري
+Common,مشترك
+Community,تواصل اجتماعي
+Company,شركة
+Compare,قارن
+Computer,الحاسوب
+Concern,الاهتمام
+Condition,شرط
+Conference,مؤتمر
+Congress,المؤتمر
+Consider,انصح
+Consumer,مستهلك
+Contain,يحتوي
+Continue,استمر
+Control,مراقبة
+Cost,كلفة
+Could,استطاع
+Country,بلد
+Couple,زوج
+Course,مسار
+Court,ملعب تنس
+Cover,غطاء يغطي
+Create,يزيد
+Crime,جريمة
+Cultural,ثقافي
+Culture,حضاره
+Cup,فنجان
+Current,تيار
+Customer,عميل
+Cut,يقطع
+Dark,داكن
+Data,البيانات
+Daughter,بنت
+Day,يوم
+Dead,في ذمة الله تعالى
+Deal,صفقة
+Death,الموت
+Debate,النقاش
+Decade,عقد
+Decide,قرر
+Decision,قرار
+Deep,عميق
+Defense,دفاع
+Degree,الدرجة العلمية
+Democrat,ديمقراطي
+Democratic,ديمقراطية
+Describe,يصف
+Design,التصميم
+Despite,بالرغم من
+Detail,التفاصيل
+Determine,حدد
+Develop,طور
+Development,تطوير
+Die,موت
+Difference,فرق
+Different,مختلف
+Difficult,صعبة
+Dinner,وجبة عشاء
+Direction,اتجاه
+Director,مدير
+Discover,يكتشف
+Discuss,ناقش وناقش
+Discussion,نقاش
+Disease,مرض
+Do,فعل
+Doctor,طبيب
+Dog,كلب
+Door,باب
+Down,تحت
+Draw,يرسم
+Dream,حلم
+Drive,قائد
+Drop,قطرة
+Drug,المخدرات
+During,خلال
+Each,كل
+Early,مبكرا
+East,الشرق
+Easy,سهل
+Eat,تأكل
+Economic,اقتصادي
+Economy,اقتصاد
+Edge,حافة
+Education,التعليم
+Effect,تأثير
+Effort,مجهود
+Eight,ثمانية
+Either,إما
+Election,انتخاب
+Else,آخر
+Employee,الموظف
+End,نهاية
+Energy,طاقة
+Enjoy,التمتع
+Enough,يكفي
+Enter,أدخل
+Entire,بأكمله
+Environment,بيئة
+Environmental,البيئية
+Especially,خصوصا
+Establish,إنشاء
+Even,حتى في
+Evening,مساء
+Event,حدث
+Ever,أبدا
+Every,كل
+Everybody,الجميع
+Everyone,كل واحد
+Everything,كل شىء
+Evidence,دليل
+Exactly,بالضبط
+Example,مثال
+Executive,تنفيذي
+Exist,يوجد
+Expect,توقع
+Experience,خبرة
+Expert,خبير
+Explain,يشرح
+Eye,عين
+Face,وجه
+Fact,حقيقة
+Factor,عامل
+Fail,يفشل
+Fall,تقع
+Family,أسرة
+Far,بعيد
+Fast,بسرعة
+Father,الآب
+Fear,يخاف
+Federal,الفيدرالية
+Feel,يشعر
+Feeling,شعور
+Few,قليل
+Field,حقل
+Fight,يعارك
+Figure,الشكل
+Fill,يملأ
+Film,فيلم
+Final,أخير
+Finally,أخيرا
+Financial,الأمور المالية
+Find,تجد
+Fine,بخير
+Finger,اصبع اليد
+Finish,ينهي
+Fire,إطلاق النار
+Firm,مؤسسة
+First,أول
+Fish,سمكة
+Five,خمسة
+Floor,أرضية
+Fly,يطير
+Focus,التركيز
+Follow,إتبع
+Food,غذاء
+Foot,قدم
+For,ل
+Force,فرض
+Foreign,أجنبي
+Forget,ننسى
+Form,شكل
+Former,سابق
+Forward,إلى الأمام
+Four,أربعة
+Free,مجانا
+Friend,صديق
+From,من عند
+Front,أمام
+Full,ممتلىء
+Fund,الأموال
+Future,مستقبل
+Game,لعبه
+Garden,حديقة
+Gas,غاز
+General,جنرال لواء
+Generation,توليد
+Get,احصل على
+Girl,فتاة
+Give,يعطى
+Glass,زجاج
+Go,يذهب
+Goal,هدف
+Good,حسن
+Government,حكومة
+Great,رائعة
+Green,لون أخضر
+Ground,أرض
+Group,مجموعة
+Grow,تنمو
+Growth,نمو
+Guess,خمن
+Gun,بندقية
+Guy,شاب
+Hair,شعر
+Half,نصف
+Hand,كف
+Hang,يشنق
+Happen,يحدث
+Happy,سعيدة
+Hard,الصعب
+Have,لديك
+He,هو
+Head,رئيس
+Health,الصحة
+Hear,يسمع
+Heart,قلب
+Heat,الحرارة
+Heavy,ثقيل
+Help,يساعد
+Her,لها
+Here,هنا
+Herself,نفسها
+High,عالي
+Him,له
+Himself,نفسه
+His,له
+History,التاريخ
+Hit,نجاح
+Hold,معلق
+Home,الصفحة الرئيسية
+Hope,أمل
+Hospital,مستشفى
+Hot,الحار
+Hotel,الفندق
+Hour,ساعة
+House,منزل
+How,كيف
+However,لكن
+Huge,تسربت
+Human,بشري
+Hundred,مائة
+Husband,الزوج
+I,أنا
+Idea,فكرة
+Identify,تحديد
+If,لو
+Image,صورة
+Imagine,يتصور
+Impact,تأثير
+Important,الأهمية
+Improve,تحسن
+In,في
+Include,يشمل
+Including,بما فيها
+Increase,يزيد
+Indeed,في الواقع
+Indicate,يشير
+Individual,فرد
+Industry,صناعة
+Information,معلومة
+Inside,داخل
+Instead,في حين أن
+Institution,المعهد
+Interest,فائدة
+Interesting,مثير للإعجاب
+International,دولي
+Interview,مقابلة
+Into,إلى
+Investment,استثمار
+Involve,تنطوي
+Issue,مشكلة
+It,هو - هي
+Item,غرض
+Its,إنه
+Itself,بحد ذاتها
+Job,مهنة
+Join,انضم
+Just,مجرد
+Keep,احتفظ
+Key,مفتاح
+Kid,طفل
+Kill,قتل
+Kind,طيب القلب
+Kitchen,مطبخ
+Know,أعرف
+Knowledge,المعرفه
+Land,الأرض
+Language,لغة
+Large,كبير
+Last,الاخير
+Late,متأخر
+Later,في وقت لاحق
+Laugh,يضحك
+Law,قانون
+Lawyer,محامي
+Lay,يضع
+Lead,قيادة
+Leader,زعيم
+Learn,يتعلم
+Least,الأقل
+Leave,غادر
+Left,اليسار
+Leg,رجل
+Legal,قانوني
+Less,أقل
+Let,يترك
+Letter,رسالة
+Level,مستوى
+Lie,راحه
+Life,الحياة
+Light,ضوء
+Like,مثل
+Likely,المحتمل أن
+Line,خط
+List,قائمة
+Listen,استمع
+Little,القليل
+Live,يعيش
+Local,محلي
+Long,طويل
+Look,بحث
+Lose,تخسر
+Loss,خسارة
+Lot,قطعة أرض
+Love,حب
+Low,قليل
+Machine,آلة
+Magazine,مجلة
+Main,الأساسية
+Maintain,يحافظ على
+Major,رائد
+Majority,بأغلبية ساحقة 
+Make,صنع
+Man,رجل
+Manage,تدبير
+Management,إدارة
+Manager,إدارة
+Many,عديدة
+Market,سوق
+Marriage,زواج
+Material,مواد
+Matter,شيء
+May,قد
+Maybe,يمكن
+Me,أنا
+Mean,يقصد
+Measure,قياس
+Media,وسائط
+Medical,طبي
+Meet,يجتمع
+Meeting,لقاء
+Member,عضو
+Memory,ذاكرة
+Mention,يذكر
+Message,رسالة
+Method,طريقة
+Middle,وسط
+Might,قد
+Military,جيش
+Million,مليون
+Mind,عقل _ يمانع
+Minute,دقيقة
+Miss,يفتقد
+Mission,بعثة
+Model,نموذج
+Modern,عصري
+Moment,الوقت الحاضر
+Money,مال
+Month,شهر
+More,أكثر
+Morning,صباح
+Most,عظم
+Mother,أم
+Mouth,فم
+Move,نقل
+Movement,حركة
+Movie,فيلم
+Mr,السيد
+Mrs,السيدة
+Much,كثير
+Music,موسيقى
+Must,يجب
+My,لي
+Myself,نفسي
+Name,اسم
+Nation,الأمة
+National,وطني
+Natural,طبيعي >> صفة
+Nature,طبيعة سجية
+Near,قرب
+Nearly,تقريبا
+Necessary,من الضروري
+Need,يحتاج
+Network,شبكة الاتصال
+Never,أبدا
+New,الجديد
+News,الإخبارية
+Newspaper,جريدة
+Next,التالي
+Nice,لطيف - جيد
+Night,ليل
+No,لا
+None,لا أحد
+Nor,ولا
+North,شمال
+Not,ليس
+Note,ملاحظة
+Nothing,ولا شيء
+Notice,تنويه
+Now,حاليا
+N't,لا 
+Number,عدد
+Occur,تحدث
+Of,من
+Off,إيقاف
+Offer,يعرض
+Office,مكتب
+Officer,ضابط
+Official,الرسمية
+Often,غالبا
+Oh,أوه
+Oil,نفط
+Ok,نعم
+Old,قديم
+On,تشغيل
+Once,بمجرد
+One,واحد
+Only,فقط
+Onto,على
+Open,افتح
+Operation,عملية
+Opportunity,فرصة
+Option,اختيار
+Or,أو
+Order,ترتيب
+Organization,منظمة
+Other,آخر
+Others,الآخرين
+Our,لنا
+Out,خارج
+Outside,في الخارج
+Over,على
+Own,ملك
+Owner,صاحب
+Page,صفحة
+Pain,الم
+Painting,لوحة
+Paper,ورق
+Parent,الأبوين
+Part,جزء
+Participant,مشارك
+Particular,خاص
+Particularly,خصوصا
+Partner,شريك
+Party,حفل
+Pass,يمر
+Past,ماضي
+Patient,صبور
+Pattern,نمط
+Pay,يدفع
+Peace,سلام
+People,اشخاص
+Per,لكل
+Perform,نفذ
+Performance,أداء
+Perhaps,ربما
+Period,فترة
+Person,شخص
+Personal,شخصي
+Phone,هاتف
+Physical,بدني
+Pick,قطف او يقطف
+Picture,صورة
+Piece,قطعة
+Place,مكان
+Plan,خطة
+Plant,مصنع
+Play,لعب
+Player,لاعب
+PM,مساء
+Point,نقطة
+Police,شرطة
+Policy,سياسات
+Political,سياسي
+Politics,سياسة
+Poor,مسكين
+Popular,شائع
+Population,تعداد السكان
+Position,موقع
+Positive,إيجابي
+Possible,المستطاع
+Power,قوة
+Practice,حاجة
+Prepare,إعداد
+Present,هدية
+President,رئيس
+Pressure,الضغط
+Pretty,جميلة
+Prevent,يحول دون
+Price,سعر
+Private,نشر
+Probably,المحتمل
+Problem,مشكلة
+Process,معالجة
+Produce,ينتج
+Product,المنتج
+Production,إنتاج
+Professional,المحترفين
+Professor,دكتور جامعى
+Program,برنامج
+Project,مشروع
+Property,خاصية
+Protect,يحمي
+Prove,إثبات
+Provide,يمد
+Public,عام
+Pull,يحذب
+Purpose,غرض
+Push,يدفع
+Put,وضع
+Quality,جودة
+Question,سؤال
+Quickly,بسرعة
+Quite,الى حد كبير
+Race,العنصر
+Radio,مذياع
+Raise,رفع
+Range,نطاق
+Rate,معدل
+Rather,على الاصح
+Reach,يصل
+Read,اقرأ
+Ready,جاهز
+Real,حقيقة
+Reality,واقع
+Realize,تدرك
+Really,هل حقا
+Reason,السبب
+Receive,تسلم
+Recent,حديث
+Recently,حديثا
+Recognize,اتعرف على
+Record,سجل
+Red,أحمر
+Reduce,خفض
+Reflect,يعكس
+Region,منطقة
+Relate,ترتبط
+Relationship,صلة
+Religious,متدين
+Remain,تظل
+Remember,تذكر
+Remove,إزالة
+Report,أبلغ عن
+Represent,تركيز
+Republican,جمهوري
+Require,يتطلب
+Research,ابحاث
+Resource,الموارد
+Respond,رد
+Response,استجابة
+Responsibility,المسئولية
+Rest,استراحة
+Result,نتيجة
+Return,إرجاع
+Reveal,يكشف
+Rich,ثري
+Right,حق
+Rise,ترتفع
+Risk,مخاطرة
+Road,طريق
+Rock,صخر
+Role,وظيفة
+Room,مجال
+Rule,القاعدة
+Run,يركض
+Safe,آمنة
+Same,نفس
+Save,حفظ
+Say,قل
+Scene,مشهد
+School,مدرسة
+Science,علم
+Scientist,عالم
+Score,نتيجة
+Sea,لحر
+Season,الموسم
+Seat,مقعد
+Second,ثانيا
+Section,الجزء
+Security,الأمان
+See,ارى
+Seek,طلب
+Seem,بدا
+Sell,يبيع
+Send,يرسل
+Senior,أول
+Sense,يشعر
+Series,سلسلة
+Serious,جدي
+Serve,تخدم
+Service,الخدمات
+Set,يضع
+Seven,سبعة
+Several,العديد من
+Sex,الجنس
+Sexual,جنسي
+Shake,هزة
+Share,شارك
+She,هي
+Shoot,أطلق النار
+Short,قصيرة
+Shot,لقطة
+Should,يجب
+Shoulder,كتف
+Show,مشاهده
+Side,الجانب
+Sign,لافتة
+Significant,بارز
+Similar,مشابه
+Simple,بسيط
+Simply,ببساطة
+Since,حيث
+Sing,يغني
+Single,غير مرتبطة
+Sister,أخت
+Sit,يجلس
+Site,موقع
+Situation,قارة
+Six,ستة
+Size,بحجم
+Skill,مهارة
+Skin,جلد
+Small,صغير
+Smile,ابتسامة
+So,وبالتالي
+Social,اجتماعي
+Society,المجتمع
+Soldier,جندي
+Some,بعض
+Somebody,شخص ما
+Someone,شخصا ما
+Something,شيئا ما
+Sometimes,بعض الأحيان
+Son,ابن
+Song,أغنية
+Soon,هكذا
+Sort,نوع
+Sound,يبدو
+Source,مصدر
+South,جنوب
+Southern,الجنوبية
+Space,فضاء
+Speak,تحدث
+Special,مميز
+Specific,محدد
+Speech,خطاب
+Spend,أنفق
+Sport,رياضة
+Spring,الخريف
+Staff,طاقم عمل
+Stage,المسرح
+Stand,يقف
+Standard,اساسي
+Star,نجمة
+Start,بداية
+State,حالة
+Statement,بيان
+Station,محطة
+Stay,البقاء
+Step,خطوة
+Still,ساكن
+Stock,الأوراق المالية
+Stop,قف
+Store,متجر
+Story,قصة
+Strategy,إستراتيجية
+Street,شارع
+Strong,قوي
+Structure,بنية
+Student,طالب
+Study,دراسة
+Stuff,أمور
+Style,نمط
+Subject,موضوعات
+Success,النجاح
+Successful,ناجح
+Such,مثل
+Suddenly,فجأة
+Suffer,يعاني
+Suggest,يقترح
+Summer,الصيف
+Support,الدعم
+Sure,بالتأكيد
+Surface,السطحية
+System,النظام
+Table,طاولة
+Take,يأخذ
+Talk,حديث
+Task,مهمة
+Tax,ضريبة
+Teach,يعلم
+Teacher,معلم
+Team,فريق
+Technology,تقنية
+Television,التلفاز
+Tell,يخبار
+Ten,عشرة
+Tend,ينزع
+Term,مصطلح
+Test,اختبار
+Than,من
+Thank,شكر
+That,الذي - التي
+The,ال
+Their,هم
+Them,معهم
+Themselves,أنفسهم
+Then,من ثم
+Theory,نظرية
+There,هناك
+These,هؤلاء
+They,أنهم
+Thing,شيء
+Think,فكر في
+Third,الثالث
+This,هذه
+Those,أولئك
+Though,على أية حال
+Thought,فكر
+Thousand,ألف
+Threat,تهديد
+Three,ثلاثة
+Through,عبر
+Throughout,على مدار
+Throw,يرمي
+Thus,هكذا
+Time,زمن
+To,إلى
+Today,اليوم
+Together,سويا
+Tonight,هذه الليلة
+Too,جدا
+Top,أعلى
+Total,المجموع
+Tough,قاس
+Toward,باتجاه
+Town,مدينة
+Trade,تجارة
+Traditional,التقليديين
+Training,تمرين
+Travel,السفر
+Treat,يعامل
+Treatment,علاج او معاملة
+Tree,شجرة
+Trial,التجربة
+Trip,رحلة قصيرة
+Trouble,مشكلة
+True,حقيقية
+Truth,حقيقة
+Try,محاولة
+Turn,منعطف أو دور
+TV,تلفزيون
+Two,اثنين
+Type,نوع
+Under,تحت
+Understand,تفهم
+Unit,وحدة
+Until,حتى
+Up,فوق
+Upon,على
+Us,نحن
+Use,استعمال
+Usually,عادة
+Value,القيمة
+Various,متنوع
+Very,جدا
+Victim,ضحية
+View,عرض
+Violence,عنف
+Visit,يزور
+Voice,صوت بشري
+Vote,تصويت
+Wait,انتظر
+Walk,يمشي
+Wall,حائط
+Want,يريد
+War,حرب
+Watch,راقب
+Water,ماء
+Way,طريق
+We,نحن
+Weapon,سلاح
+Wear,يرتدي
+Week,أسبوع
+Weight,وزن
+Well,حسنا
+West,غرب
+Western,الغربي
+What,ماذا او ما
+Whatever,ايا كان
+When,متي
+Where,أين
+Whether,سواء
+Which,أي
+While,في حين
+White,أبيض
+Who,من الذى
+Whole,كامل
+Whom,من
+Whose,ملك من
+Why,لماذا
+Wide,واسع
+Wife,زوجة
+Will,إرادة
+Win,يفوز
+Wind,ريح
+Window,نافذة او شباك
+Wish,يتمنى
+With,مع
+Within,داخل
+Without,بدون
+Woman,النساء
+Wonder,يتساءل
+Word,كلمة
+Work,الشغل
+Worker,عامل
+World,العالمية
+Worry,قلق
+Would,سيكون
+Write,اكتب
+Writer,كاتب
+Wrong,خاطئ
+Yard,حديقة منزل
+Yeah,نعم
+Year,عام
+Yes,نعم
+Yet,بعد
+You,أنت
+Young,صغيرة
+Your,لك
+Yourself,نفسك
