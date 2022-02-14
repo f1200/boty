@@ -118,10 +118,6 @@ try:
         except:
             pass
         try:
-            bot.delete_message(message.chat.id, message.message_id - 1)
-        except:
-            pass
-        try:
             bot.delete_message(message.chat.id, message.message_id + 0)
         except:
             pass
