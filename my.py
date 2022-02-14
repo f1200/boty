@@ -15,7 +15,7 @@ meanlist = []
 w1 = []
 w2 = []
 w3 = []
-TELEGRAM_TOKEN = '5215112395:AAHnYysdAOGImUa08H91n0T9fmB2F_uyDhY'
+TELEGRAM_TOKEN ="5215112395:AAHnYysdAOGImUa08H91n0T9fmB2F_uyDhY"
 f = open("ttx/words.txt","r",encoding="utf-8")
 
 def retrry(message):
@@ -45,7 +45,27 @@ def retrry(message):
             ch="https://www.youtube.com/watch?v=QUhUxLPbrDo&list=PL-1UAVDVI3ffP10PyEF12HFnLK-MmKBDE"
             bot.send_message(message.chat.id, f" تحتاج للاشتراك في القناة للاستمرار  \n  القناة  @adowat  \n\n {ch}")
     except:
-        bot.send_message(message.chat.id, f"/start ارسل مرة اخرى")
+        if status=="member" or status =="creator" or status =="administrator" : 
+            ran = random.randint(0, words)
+            words1 = random.randint(0, words)
+            words2 = random.randint(0, words)
+            words3 = random.randint(0, words)
+            key = types.InlineKeyboardMarkup()
+            b1 = types.InlineKeyboardButton(text=f"{meanlist[ran]}", callback_data='True')
+            b2 = types.InlineKeyboardButton(text=f"{w1[words1]}", callback_data='False')
+            b3 = types.InlineKeyboardButton(text=f"{w2[words2]}", callback_data='False')
+            b4 = types.InlineKeyboardButton(text=f"{w3[words3]}", callback_data='False')
+            button = [b1, b2, b3, b4]
+            random.shuffle(button)
+
+            key.add(button[0])
+            key.add(button[1])
+            key.add(button[2])
+            key.add(button[3])
+            sss=englist[ran]
+            sss=sss.lower()
+            bot.send_audio(message.chat.id, audio=open(f"mp3/{sss}.mp3", 'rb'),caption=f"معنى كلمه:  {englist[ran]} \n \n ", reply_markup=key)
+        
         
     
 def runn(message):
