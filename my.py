@@ -17,6 +17,7 @@ w2 = []
 w3 = []
 TELEGRAM_TOKEN = '5215112395:AAHnYysdAOGImUa08H91n0T9fmB2F_uyDhY'
 f = open("ttx/words.txt","r",encoding="utf-8")
+
 def retrry(message):
     idu = message.from_user.id
     cec = f'https://api.telegram.org/bot{TELEGRAM_TOKEN}/getChatMember?chat_id=-1001532606849&user_id={idu}'
@@ -42,9 +43,9 @@ def retrry(message):
             bot.send_audio(message.chat.id, audio=open(f"mp3/{englist[ran]}.mp3", 'rb'),caption=f"معنى كلمه:  {englist[ran]} \n \n ", reply_markup=key)
         else:
             ch="https://www.youtube.com/watch?v=QUhUxLPbrDo&list=PL-1UAVDVI3ffP10PyEF12HFnLK-MmKBDE"
-            bot.send_message(message.chat.id, f"{status} تحتاج للاشتراك في القناة للاستمرار  \n  القناة  @adowat \n \n يوتيوب {ch}")
+            bot.send_message(message.chat.id, f" تحتاج للاشتراك في القناة للاستمرار  \n  القناة  @adowat  \n\n {ch}")
     except:
-        runn(message)
+        bot.send_message(message.chat.id, f"/start ارسل مرة اخرى")
         
     
 def runn(message):
@@ -69,21 +70,6 @@ for line in f.readlines():
     w2.append(wrong2)
     w3.append(wrong3)
 try:
-    @bot.message_handler(commands=['start'])
-    def start_message(message):
-        threads = []
-        T =threading.Thread(target=runn,args=(message,))
-        threads.append(T)
-        T.start()
-    
-    @bot.callback_query_handler(func=lambda call: True)
-    def calling(call):
-        if call.message:
-            if call.data == 'False':
-                f(call.message)
-            elif call.data == 'True':
-                t(call.message)
-
     def f(message):
         bot.send_message(message.chat.id, "إجابتك خاطئة , ✖️")
     def t(message):
@@ -140,5 +126,24 @@ try:
 except:
     def send(message):
         bot.send_message(message.chat.id, text="The BARON    حدث خطاء الارجاء ارسال /start مرا اخرى")
+@bot.message_handler(commands=['start'])
+def start_message(message):
+    threads = []
+    T =threading.Thread(target=runn,args=(message,))
+    threads.append(T)
+    T.start()
+def callt(call):
+    if call.message:
+        if call.data == 'False':
+            f(call.message)
+        elif call.data == 'True':
+            t(call.message)
+@bot.callback_query_handler(func=lambda call: True)
+def calling(call):
+    threads = []
+    T =threading.Thread(target=callt,args=(call,))
+    threads.append(T)
+    T.start()
+    
 
 bot.polling(True)
