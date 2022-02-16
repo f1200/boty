@@ -5,7 +5,7 @@ from telebot import types
 import telebot,random,requests
 import json
 import threading
-
+global si
 bot_token = "5215112395:AAHnYysdAOGImUa08H91n0T9fmB2F_uyDhY"
 bot = telebot.TeleBot(bot_token)
 
@@ -15,7 +15,7 @@ meanlist = []
 w1 = []
 w2 = []
 w3 = []
-TELEGRAM_TOKEN ="5215112395:AAHnYysdAOGImUa08H91n0T9fmB2F_uyDhY"
+TELEGRAM_TOKEN = '5215112395:AAHnYysdAOGImUa08H91n0T9fmB2F_uyDhY'
 f = open("ttx/words.txt","r",encoding="utf-8")
 
 def retrry(message):
@@ -90,37 +90,18 @@ for line in f.readlines():
     w2.append(wrong2)
     w3.append(wrong3)
 try:
+    
     def f(message):
+        #si+=1
         bot.send_message(message.chat.id, "إجابتك خاطئة , ✖️")
+
     def t(message):
         try:
-            bot.delete_message(message.chat.id, message.message_id - 2)
+            pass
+            #bot.delete_message(message.chat.id, message.message_id - s)
         except:
             pass
-        try:
-            bot.delete_message(message.chat.id, message.message_id - 3)
-        except:
-            pass
-        try:
-            bot.delete_message(message.chat.id, message.message_id - 4)
-        except:
-            pass
-        try:
-            bot.delete_message(message.chat.id, message.message_id + 1)
-        except:
-            pass
-        try:
-            bot.delete_message(message.chat.id, message.message_id + 2)
-        except:
-            pass
-        try:
-            bot.delete_message(message.chat.id, message.message_id + 3)
-        except:
-            pass
-        try:
-            bot.delete_message(message.chat.id, message.message_id + 0)
-        except:
-            pass
+        
 
         ran = random.randint(0, words)
         words1 = random.randint(0, words)
@@ -137,8 +118,8 @@ try:
         key.add(button[1])
         key.add(button[2])
         key.add(button[3])
-        bot.send_audio(message.chat.id, audio=open(f"mp3/{englist[ran]}.mp3", 'rb'),caption=f"معنى كلمه:  {englist[ran]} \n \n ", reply_markup=key)
         bot.send_message(message.chat.id, "إجابتك صحيحه , ✔️")
+        bot.send_audio(message.chat.id, audio=open(f"mp3/{englist[ran]}.mp3", 'rb'),caption=f"معنى كلمه:  {englist[ran]} \n \n ", reply_markup=key)
 except:
     def send(message):
         bot.send_message(message.chat.id, text="The BARON    حدث خطاء الارجاء ارسال /start مرا اخرى")
