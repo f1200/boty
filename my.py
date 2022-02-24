@@ -6,7 +6,7 @@ import telebot,random,requests
 import json
 import threading
 global si
-bot_token = "5215112395:AAHnYysdAOGImUa08H91n0T9fmB2F_uyDhY"
+bot_token = "هنا التوكن الخاص بك"
 bot = telebot.TeleBot(bot_token)
 
 words = int(1096)
@@ -15,7 +15,7 @@ meanlist = []
 w1 = []
 w2 = []
 w3 = []
-TELEGRAM_TOKEN = '5215112395:AAHnYysdAOGImUa08H91n0T9fmB2F_uyDhY'
+TELEGRAM_TOKEN =bot_token
 f = open("ttx/words.txt","r",encoding="utf-8")
 
 def retrry(message):
